@@ -1,0 +1,48 @@
+body {
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+
+hr {
+    border-top: 1px solid black;
+    border-bottom: 1px solid darkgrey;
+}
+
+a {
+    text-decoration: none;
+    color: indigo;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: purple
+}
+
+p {
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.white {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+#paragraph {
+    color: white;
+    width: 175px;
+    margin: 0 auto;
+}
