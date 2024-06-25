@@ -4,10 +4,12 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
+    font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
     color: white;
+    text-align: center;
 }
 
 hr {
@@ -45,4 +47,11 @@ h2 {
     color: white;
     width: 175px;
     margin: 0 auto;
+}
+
+#description {
+    clear: right;
+    float: right;
+    font-style: italic;
+    margin: 15px 0 18px 0;
 }
